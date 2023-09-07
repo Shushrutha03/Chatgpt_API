@@ -2,7 +2,7 @@
 
 These projects showcase different use cases for leveraging OpenAI's GPT-3.5 Turbo model, from generating creative ideas to building chatbots for interactive and specialized conversations. Users can customize the content and purpose of these projects to meet their specific needs.
 
-#chatgpt simple: OpenAI App Ideas Generator
+**chatgpt simple:** OpenAI App Ideas Generator
 Description:
 Generate app ideas using OpenAI's GPT-3.5 Turbo model.
 
@@ -16,7 +16,7 @@ Set your OpenAI API key in the code.
 Customize the user prompt with your own ideas or questions.
 Run the script to generate app ideas based on your input.
 
-#chatgpt chat assistant copy: Interactive Chatbot with OpenAI GPT-3.5 Turbo
+**chatgpt chat assistant copy:** Interactive Chatbot with OpenAI GPT-3.5 Turbo
 Description:
 Create an interactive chatbot powered by OpenAI's GPT-3.5 Turbo model.
 
@@ -30,7 +30,7 @@ Set your OpenAI API key in the code.
 Customize the conversation by adding your own messages and questions.
 Run the script and have a conversation with the chatbot. Type "quit()" to exit the chat.
 
-#chatgpt chat assistant website: Real Estate Pro Chatbot with OpenAI
+**chatgpt chat assistant website:** Real Estate Pro Chatbot with OpenAI
 Description:
 Build a real estate investment and negotiation chatbot using OpenAI's GPT-3.5 Turbo model.
 
